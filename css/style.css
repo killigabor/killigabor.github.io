@@ -1,0 +1,61 @@
+html{
+	height:100%
+}
+body{
+	 background-image:url('../pics/hk1.jpg');
+	 background-size:cover;
+	 background-repeat:no-repeat;
+	 background-position:top center;
+	 background-attachment:fixed;
+	 color:white;
+	 font-family:Arial, Helvetica;
+	 font-size:18px;
+	 margin:20px 20px 20px 20px;
+ }
+header{
+	background-color:black;
+	color:white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+li a{
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #333;
+}
+h2{
+	margin-top:40px;
+}
+
+td{
+	padding-left:20px;
+	padding-bottom:4px;
+}
+.a{
+	padding-left:0px;
+}
+.cl{
+	width:70%;
+}
+#a{
+	padding-right:40px;
+	padding-top:40px;
+}
+#b{
+	padding-top:30px;
+}
+#c{
+	padding-top:40px;
+}
